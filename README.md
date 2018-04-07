@@ -12,6 +12,8 @@ Mac = /private/etc/hosts
 2. Open hosts file as admin. If you can't open the hosts file as administrator on Windows, I recommend you use notepad++.
 3. Copy the following addresses to your hosts file.
 
+```
+
 # Windows:
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
@@ -56,10 +58,15 @@ Mac = /private/etc/hosts
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 
+```
+
 =========================================================================
+
 
 # Mac:
 # As for Mac just change "0.0.0.0" to "127.0.0.1"
+
+```
 
 127.0.0.1 adclick.g.doublecklick.net
 127.0.0.1 adeventtracker.spotify.com
@@ -103,7 +110,10 @@ Mac = /private/etc/hosts
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 tpc.googlesyndication.com
 
+```
+
 =========================================================================
+
 
 4. Save it (Ctrl + S). Remember not to save it as ".txt",".ics", or other extension, it won't work.
 
